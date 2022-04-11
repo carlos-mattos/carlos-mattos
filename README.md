@@ -6,7 +6,6 @@ Feel free to contact me!
 
 [![Linkedin: carloseduardo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-andrade-de-mattos-a060b1182/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceamattos.jf@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5532991650247&text=Hey!%20Let's%20chat!)
 
 ## ⚡ Technologies
 
